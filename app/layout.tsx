@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { ColorSchemeScript, MantineProvider, createTheme } from "@mantine/core";
+
 import "@mantine/core/styles.css";
 import "@mantine/dropzone/styles.css";
 import "./globals.css";
